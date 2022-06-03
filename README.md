@@ -48,7 +48,7 @@
 - pip install --upgrade google_api_python_client
 - pip install oauth2client
 - 네이버 검색과 다르게 동시에 검색하는 기능이 없고, 개별로 검색했을 때 가장 유의미한 검색 결과를 출력하는 검색어가 비트코인 이라고 판단되어 비트코인 에 대한 검색 결과를 출력하도록 하였습니다.
-- 
+
 # topfive.py
 ## top()
 - market 이름과 market 코드가 저장되어 있는 market_list.csv파일을 불러옵니다.
